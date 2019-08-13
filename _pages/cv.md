@@ -51,7 +51,7 @@ University of Sao Paulo, Brazil
   
 ## Field Experience
 
-* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks, 2017)  
+* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140), RV Meteor, Cabo Verde to Canary Islands (4 weeks, 2017)  
 * Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year, 2011)  
 
 
