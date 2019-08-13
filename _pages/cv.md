@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Employment
+* __Postdoctoral Researcher__  
+ICBM, Carl von Ossietzky University of Oldenburg, Germany  
+Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/icbm/planktologie/)
+
+* __Ph.D. in Ocean and Earth Sciences__  
+NOCS, University of Southampton, UK  
+Natural History Museum, London, UK   
+MARUM, University of Bremen, Germany (one year exchange) 
+
 ## Education
 
 * __Ph.D. in Ocean and Earth Sciences__  
@@ -42,6 +52,13 @@ University of Sao Paulo, Brazil
 * __2012__	Exchange scholarship for German Winter Course in Düsseldorf, DAAD Germany (EUR 2,625)  
 * __2011__	Undergraduate scholarship, FAPESP Brazil (USD 3,456)  
 
+## Research Experience
+
+__2015 - 2019__ PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
+__2014__ Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
+__2013__ Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
+__2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
+
   
 ## Field Experience
 
@@ -58,6 +75,7 @@ University of Sao Paulo, Brazil
 * __2013__ IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana (2 weeks)  
 
 ## Teaching and Outreach
+
 * 2018 Nature Live show on "Planktonic Pioneers", Natural History Museum, London  
 * 2018 Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR Brazil  
 * 2017 Outreach, European Researchers' Night: Oceans, Science Uncovered at the Natural History Museum, London  
