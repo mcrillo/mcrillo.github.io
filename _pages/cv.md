@@ -37,7 +37,7 @@ University of Sao Paulo, Brazil
 
 ## Publications
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include publications.md %}
   {% endfor %}</ul>
   
 
