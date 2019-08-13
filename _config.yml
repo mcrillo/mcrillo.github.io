@@ -83,10 +83,10 @@ author:
   name             : "Marina C. Rillo"
   avatar           : "profile.png"
   bio              : "blablabla"
-  location         : "Germany"
+  location         : #"Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "marina.rillo@evobio.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
