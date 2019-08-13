@@ -10,14 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
+
 * __Postdoctoral Researcher__  
 ICBM, Carl von Ossietzky University of Oldenburg, Germany  
 Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/icbm/planktologie/)
 
-* __Ph.D. in Ocean and Earth Sciences__  
-NOCS, University of Southampton, UK  
-Natural History Museum, London, UK   
-MARUM, University of Bremen, Germany (one year exchange) 
 
 ## Education
 
@@ -52,6 +49,7 @@ University of Sao Paulo, Brazil
 * __2012__	Exchange scholarship for German Winter Course in Düsseldorf, DAAD Germany (EUR 2,625)  
 * __2011__	Undergraduate scholarship, FAPESP Brazil (USD 3,456)  
 
+
 ## Research Experience
 
 __2015 - 2019__ PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
@@ -65,6 +63,7 @@ __2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterfl
 * __2017__ Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks)  
 * __2011__ Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year)  
 
+
 ## Complementary Courses and Workshops  
 
 * __2018__ School on Physics Applications in Biology - Time-series analysis [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week)  
@@ -73,6 +72,7 @@ __2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterfl
 * __2015__ Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum London (1 week)  
 * __2014__ Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich (1 day)  
 * __2013__ IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana (2 weeks)  
+
 
 ## Teaching and Outreach
 
@@ -83,10 +83,12 @@ __2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterfl
 * 2015 Outreach, European Researchers' Night, Science Uncovered at the Natural History Museum, London  
 * 2013 Teaching assistant, II Southern-Summer School on Mathematical Biology, Theoretical Physics Institute, UNESP, Brazil  
 
+
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 ## Talks
   <ul>{% for post in site.talks %}
