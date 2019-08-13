@@ -12,5 +12,5 @@ understand how biodiversity changes across large temporal and spatial scales. I 
 and mainly use planktonic foraminifera, a marine microfossil group, as a model system.    
 
 
-__More soon__
+(_More soon_)
 
