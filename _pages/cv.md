@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* __BSc in Molecular Sciences (2012)__  
+University of Sao Paulo, Brazil  
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
@@ -31,8 +32,7 @@ __BSc in Biological Sciences__
 IB, University of Sao Paulo, Brazil 
 
 `2012` 		
-__BSc in Molecular Sciences__  
-University of Sao Paulo, Brazil  
+
 
 
 Fellowships, Grants and Awards
