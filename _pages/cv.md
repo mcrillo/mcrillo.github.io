@@ -34,6 +34,20 @@ University of Sao Paulo, Brazil
 University of Sao Paulo, Brazil  
 
 
+## Research Experience
+
+__2015 - 2019__ PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
+__2014__ Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
+__2013__ Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
+__2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
+
+  
+## Field Experience
+
+* __2017__ Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks)  
+* __2011__ Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year)  
+
+
 ## Fellowships, Grants and Awards
 
 * __2018__	Participation support for ICTP-SAIFR Summer Schools, FAPESP Brazil (USD 1,275)  
@@ -50,20 +64,6 @@ University of Sao Paulo, Brazil
 * __2011__	Undergraduate scholarship, FAPESP Brazil (USD 3,456)  
 
 
-## Research Experience
-
-__2015 - 2019__ PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
-__2014__ Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
-__2013__ Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
-__2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
-
-  
-## Field Experience
-
-* __2017__ Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks)  
-* __2011__ Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year)  
-
-
 ## Complementary Courses and Workshops  
 
 * __2018__ School on Physics Applications in Biology - Time-series analysis [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week)  
@@ -76,12 +76,12 @@ __2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterfl
 
 ## Teaching and Outreach
 
-* 2018 Nature Live show on "Planktonic Pioneers", Natural History Museum, London  
-* 2018 Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR Brazil  
-* 2017 Outreach, European Researchers' Night: Oceans, Science Uncovered at the Natural History Museum, London  
-* 2015 Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049), University of Southampton  
-* 2015 Outreach, European Researchers' Night, Science Uncovered at the Natural History Museum, London  
-* 2013 Teaching assistant, II Southern-Summer School on Mathematical Biology, Theoretical Physics Institute, UNESP, Brazil  
+* __2018__ Nature Live show on "Planktonic Pioneers", Natural History Museum, London  
+* __2018__ Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR Brazil  
+* __2017__ Outreach, European Researchers' Night: Oceans, Science Uncovered at the Natural History Museum, London  
+* __2015__ Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049), University of Southampton  
+* __2015__ Outreach, European Researchers' Night, Science Uncovered at the Natural History Museum, London  
+* __2013__ Teaching assistant, II Southern-Summer School on Mathematical Biology, Theoretical Physics Institute, UNESP, Brazil  
 
 
 ## Publications
