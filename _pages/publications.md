@@ -11,7 +11,7 @@ author_profile: true
 
 # 2019
 
- A. Y. Hsiang, A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull (2019). Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks. _Paleoceanography and Paleoclimatology_, 34: 1157-1177. doi:10.1029/2019PA003612
+ A. Y. Hsiang, A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull (2019). Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks. _Paleoceanography and Paleoclimatology_, 34: 1157-1177. [https://doi.org/10.1029/2019PA003612](https://doi.org/10.1029/2019PA003612)
 
 J. Meilland, M. Siccha, M. F. G. Weinkauf, L. Jonkers, R. Morard, U. Baranowski, A. Baumeister, J. Bertlich, G.-J. Brummer, P. Debray, T. Fritz-Endres, J. Groeneveld, L. Magerl, P. Munz, __M. C. Rillo__, C. Schmidt, H. Takagi, G. Theara, M. Kucera (2019). Highly replicated sampling reveals no diurnal vertical migration but stable species-specific vertical habitats in planktonic foraminifera, _Journal of Plankton Research_, 41:2, 127–141, [https://doi.org/10.1093/plankt/fbz002](https://doi.org/10.1093/plankt/fbz002)
 
