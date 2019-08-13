@@ -23,7 +23,8 @@ NOCS, University of Southampton, UK
 Natural History Museum, London, UK   
 MARUM, University of Bremen, Germany (one year exchange) 
 
-* __M.Sc. in Evolutionary Biology - Erasmus Mundus MEME Programme (2014)__  
+* __M.Sc. in Evolutionary Biology (2014)__  
+Erasmus Mundus MEME Programme  
 GELIFES, University of Groningen, Netherlands  
 ISEM, University of Montpellier II, France  
 
