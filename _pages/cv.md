@@ -73,31 +73,31 @@ University of Sao Paulo, Brazil
   
 ## Talks
 
-* FORAMS, Edinburgh, UK (2018). Talk title: _Do modern planktonic foraminifera species compete?_ 
+* FORAMS, Edinburgh, UK (2018) - _Do modern planktonic foraminifera species compete?_ 
 
-* The Micropalaeontological Society Annual Conference, London, UK (2017). Talk title: _Biogeographic variation of shell size within modern planktonic foraminifera species_
+* The Micropalaeontological Society Annual Conference, London, UK (2017) - _Biogeographic variation of shell size within modern planktonic foraminifera species_
 
-* 15th International Congress of Protistology, Prague, Czech Republic (2017). Talk title: _Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?_
+* 15th International Congress of Protistology, Prague, Czech Republic (2017) - _Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?_
 
-* The Micropalaeontological Society Annual Conference, University of Liverpool, UK (2015). Talk title: _The Henry Buckley Collection of Planktonic Foraminifera_
+* The Micropalaeontological Society Annual Conference, University of Liverpool, UK (2015) - _The Henry Buckley Collection of Planktonic Foraminifera_
 
 ## Posters
 
-* Evolution 2018, Montpellier, France - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
+* Evolution, Montpellier, France (2018) - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
 
-* Evolution 2017, Portland, OR, USA  & The Micropalaeontological Society Annual Conference 2017, London - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
+* Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London (2017) - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
 
-* BES Macroecology 2016, Oxford & 10th Annual Natural History Museum Student Conference, London - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
+* BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London (2016) - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
 
 
 ## Complementary Courses and Workshops  
 
-* School on Physics Applications in Biology (2018) - [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week)  
-* The International School on Foraminifera (2016), Urbino (3 weeks)  
-* Comparative Approaches in Ecology and Evolution (IDEM 186, 2016), Max Planck Institute for Demographic Research, Rostock (1 week)  
-* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera (2015),  Natural History Museum London (1 week)  
-* Computational Methods in Macroevolutionary Analysis (2014), Institute of Systematic Botany, University of Zurich (1 day)  
-* IV Course on Ecological Consequences of Climate Change (2013), CSIC Estación Biológica de Doñana (2 weeks)  
+* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week, 2018)  
+* The International School on Foraminifera, Urbino (3 weeks, 2016)  
+* Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock (1 week, 2016)  
+* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum London (1 week, 2015)  
+* Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich (1 day, 2014)  
+* IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana (2 weeks, 2013)  
 
 
 ## Teaching and Outreach
