@@ -34,6 +34,12 @@ University of Sao Paulo, Brazil
 University of Sao Paulo, Brazil  
 
 
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 ## Research Experience
 
 * PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
@@ -63,6 +69,25 @@ University of Sao Paulo, Brazil
 * Exchange scholarship for German Winter Course in Düsseldorf (2012), DAAD Germany (EUR 2,625)  
 * [Undergraduate scholarship](https://bv.fapesp.br/en/bolsas/116349/migration-rates-of-frugivory-butterflies-are-consistent-with-the-neutral-theory-of-biodiversity/) (2011), FAPESP Brazil (USD 3,456)  
 
+  
+## Talks
+
+* FORAMS, Edinburgh, UK (2018). Talk title: _Do modern planktonic foraminifera species compete?_ 
+
+* The Micropalaeontological Society Annual Conference, London, UK (2017). Talk title: _Biogeographic variation of shell size within modern planktonic foraminifera species_
+
+* 15th International Congress of Protistology, Prague, Czech Republic (2017). Talk title: _Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?_
+
+* The Micropalaeontological Society Annual Conference, University of Liverpool, UK (2015). Talk title: _The Henry Buckley Collection of Planktonic Foraminifera_
+
+## Posters
+
+* Evolution 2018, Montpellier, France - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
+
+* Evolution 2017, Portland, OR, USA  & The Micropalaeontological Society Annual Conference 2017, London - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
+
+* BES Macroecology 2016, Oxford & 10th Annual Natural History Museum Student Conference, London - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
+
 
 ## Complementary Courses and Workshops  
 
@@ -83,26 +108,6 @@ University of Sao Paulo, Brazil
 * Outreach, European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London  
 * Teaching assistant, II Southern-Summer School on Mathematical Biology (2013), Theoretical Physics Institute, UNESP, Brazil  
 
-
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-## Talks
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-## Poster Presentations
-
-* __2018__ Evolution 2018, Montpellier, France - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
-
-* __2017__ Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
-
-* __2016__ BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
 
 
 ## Programming skills
