@@ -33,12 +33,6 @@ University of Sao Paulo, Brazil
 
 * __B.Sc. in Molecular Sciences (2012)__  
 University of Sao Paulo, Brazil  
-
-
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include publications.md %}
-  {% endfor %}</ul>
   
 
 ## Research Experience
