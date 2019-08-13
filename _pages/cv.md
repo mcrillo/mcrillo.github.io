@@ -36,52 +36,52 @@ University of Sao Paulo, Brazil
 
 ## Research Experience
 
-__2015 - 2019__ PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
-__2014__ Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
-__2013__ Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
-__2010-2011__ Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
+* PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
+* Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
+* Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
+* Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
 
   
 ## Field Experience
 
-* __2017__ Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks)  
-* __2011__ Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year)  
+* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. Marine expedition FORAMFLUX M-140, RV Meteor, Cabo Verde to Canary Islands (4 weeks, 2017)  
+* Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year, 2011)  
 
 
 ## Fellowships, Grants and Awards
 
-* __2018__	Participation support for ICTP-SAIFR Summer Schools, FAPESP Brazil (USD 1,275)  
-* __2017__	Best Poster, The Micropalaeontological Society Annual Conference  
-* __2017__	Travel Award for The Micropalaeontological Society Annual Conference, TMS UK (GBP 100)  
-* __2016__	Research Grant for Doctoral Candidates Academic Exchange at the University of Bremen, DAAD Germany (EUR 10,385)  
-* __2016__	Tuition support for the International School Foraminifera Urbino, European Geological Union (EUR 500)  
-* __2016__	Best Poster, 10th Annual Natural History Museum Student Conference  
-* __2015__	Travel Award for The Micropalaeontological Society Annual Conference, TMS UK (GBP 100)  
-* __2015__	PhD Research studentship, Graduate School of the National Oceanography Centre Southampton UK (GBP 102,000 tuition included)  
-* __2012__	Master scholarship, Category A, Erasmus Mundus EACEA European Union (EUR 36,000 tuition included)  
-* __2012__	Exchange scholarship at the Technical University of Munich, Science Without Borders CNPq Brazil (EUR 5,000)  
-* __2012__	Exchange scholarship for German Winter Course in Düsseldorf, DAAD Germany (EUR 2,625)  
-* __2011__	Undergraduate scholarship, FAPESP Brazil (USD 3,456)  
+* Participation support for ICTP-SAIFR Summer Schools (2018), FAPESP Brazil (USD 1,275)  
+* [Best Poster](https://doi.org/10.6084/m9.figshare.5113177.v4), The Micropalaeontological Society Annual Conference (2017)  
+* Travel Award for The Micropalaeontological Society Annual Conference (2017), TMS UK (GBP 100)  
+* Research Grant for Doctoral Candidates Academic Exchange at the University of Bremen (2016), DAAD Germany (EUR 10,385)  
+* Tuition support for the International School Foraminifera Urbino (2016), European Geological Union (EUR 500)  
+* [Best Poster](https://doi.org/10.6084/m9.figshare.5649352.v3), 10th Annual Natural History Museum Student Conference (20160  
+* Travel Award for The Micropalaeontological Society Annual Conference (2015), TMS UK (GBP 100)  
+* PhD Research studentship (2015), Graduate School of the National Oceanography Centre Southampton UK (GBP 102,000 tuition included)  
+* Master scholarship (2012), Category A, Erasmus Mundus EACEA European Union (EUR 36,000 tuition included)  
+* Exchange scholarship at the Technical University of Munich (2012), Science Without Borders CNPq Brazil (EUR 5,000)  
+* Exchange scholarship for German Winter Course in Düsseldorf (2012), DAAD Germany (EUR 2,625)  
+* [Undergraduate scholarship](https://bv.fapesp.br/en/bolsas/116349/migration-rates-of-frugivory-butterflies-are-consistent-with-the-neutral-theory-of-biodiversity/) (2011), FAPESP Brazil (USD 3,456)  
 
 
 ## Complementary Courses and Workshops  
 
-* __2018__ School on Physics Applications in Biology - Time-series analysis [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week)  
-* __2016__ The International School on Foraminifera, Urbino (3 weeks)  
-* __2016__ Comparative Approaches in Ecology and Evolution (IDEM 186) Max Planck Institute for Demographic Research, Rostock (1 week)  
-* __2015__ Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum London (1 week)  
-* __2014__ Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich (1 day)  
-* __2013__ IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana (2 weeks)  
+* School on Physics Applications in Biology (2018) - [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week)  
+* The International School on Foraminifera (2016), Urbino (3 weeks)  
+* Comparative Approaches in Ecology and Evolution (IDEM 186, 2016), Max Planck Institute for Demographic Research, Rostock (1 week)  
+* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera (2015),  Natural History Museum London (1 week)  
+* Computational Methods in Macroevolutionary Analysis (2014), Institute of Systematic Botany, University of Zurich (1 day)  
+* IV Course on Ecological Consequences of Climate Change (2013), CSIC Estación Biológica de Doñana (2 weeks)  
 
 
 ## Teaching and Outreach
 
-* __2018__ Nature Live show on "Planktonic Pioneers", Natural History Museum, London  
-* __2018__ Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR Brazil  
-* __2017__ Outreach, European Researchers' Night: Oceans, Science Uncovered at the Natural History Museum, London  
-* __2015__ Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049), University of Southampton  
-* __2015__ Outreach, European Researchers' Night, Science Uncovered at the Natural History Museum, London  
-* __2013__ Teaching assistant, II Southern-Summer School on Mathematical Biology, Theoretical Physics Institute, UNESP, Brazil  
+* Nature Live show on "Planktonic Pioneers" (2018), Natural History Museum, London  
+* Teaching assistant, VII Southern-Summer School on Mathematical Biology (2018), ICTP-SAIFR Brazil  
+* Outreach, European Researchers' Night: Oceans (2017), Science Uncovered at the Natural History Museum, London  
+* Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049, 2015), University of Southampton  
+* Outreach, European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London  
+* Teaching assistant, II Southern-Summer School on Mathematical Biology (2013), Theoretical Physics Institute, UNESP, Brazil  
 
 
 ## Publications
