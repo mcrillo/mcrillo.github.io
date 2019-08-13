@@ -18,7 +18,7 @@ Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/icbm/planktologie/)
 
 ## Education
 
-* __Ph.D. in Ocean and Earth Sciences__  
+* __Ph.D. in Ocean and Earth Sciences (2019)__  
 NOCS, University of Southampton, UK  
 Natural History Museum, London, UK   
 MARUM, University of Bremen, Germany (one year exchange) 
