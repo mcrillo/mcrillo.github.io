@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ### E-mails: 
-marina.rillo@evobio.eu (preferred)   
-marina.rillo@uni-oldenburg.de  
+[marina.rillo@evobio.eu](mailto:marina.rillo@evobio.eu) (preferred)   
+[marina.rillo@uni-oldenburg.de](mailto:marina.rillo@uni-oldenburg.de)   
 
 ### Address:  
 Dr. Marina C. Rillo  
