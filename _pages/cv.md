@@ -12,24 +12,23 @@ redirect_from:
 ## Employment
 
 * __Postdoctoral Researcher__  
-ICBM, Carl von Ossietzky University of Oldenburg, Germany  
+Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany  
 Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/icbm/planktologie/)
 
 
 ## Education
 
 * __Ph.D. in Ocean and Earth Sciences (2019)__  
-NOCS, University of Southampton, UK  
-Natural History Museum, London, UK   
-MARUM, University of Bremen, Germany (one year exchange) 
+National Oceanography Centre Southampton, University of Southampton, UK  
+Department of Earth Sciences, Natural History Museum, London, UK   
+Center for Marine Environmental Sciences, University of Bremen, Germany (one year exchange) 
 
 * __M.Sc. in Evolutionary Biology (2014)__  
-Erasmus Mundus MEME Programme  
-GELIFES, University of Groningen, Netherlands  
-ISEM, University of Montpellier II, France  
+Groningen Institute for Evolutionary Life Sciences, University of Groningen, Netherlands  
+Institute of Evolution Sciences of Montpellier, University of Montpellier II, France  
 
 * __B.Sc. in Biological Sciences (2014)__  
-University of Sao Paulo, Brazil  
+Institute of Biosciences, University of Sao Paulo, Brazil  
 
 * __B.Sc. in Molecular Sciences (2012)__  
 University of Sao Paulo, Brazil  
@@ -45,8 +44,8 @@ University of Sao Paulo, Brazil
   
 ## Field Experience
 
-* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140), RV Meteor, Cabo Verde to Canary Islands (4 weeks, 2017)  
-* Butterfly capture-mark-recapture method using traps and nets. Atlantic Rainforest, Brazil (1 year, 2011)  
+* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140), German Research Vessel Meteor, sailing from Cabo Verde to the Canary Islands (4 weeks, 2017)  
+* Butterfly capture-mark-recapture method using traps and nets in small patches of the Atlantic Rainforest, Sao Paulo, Brazil (1 year, 2011)  
 
 
 ## Fellowships, Grants and Awards
@@ -79,28 +78,28 @@ University of Sao Paulo, Brazil
 
 * Evolution, Montpellier, France (2018) - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
 
-* Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London (2017) - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
+* Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London, UK (2017) - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
 
-* BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London (2016) - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
+* BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London, UK (2016) - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
 
 
 ## Complementary Courses and Workshops  
 
-* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR Brazil (1 week, 2018)  
-* The International School on Foraminifera, Urbino (3 weeks, 2016)  
-* Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock (1 week, 2016)  
-* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum London (1 week, 2015)  
-* Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich (1 day, 2014)  
-* IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana (2 weeks, 2013)  
+* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Brazil (1 week, 2018)  
+* The International School on Foraminifera, Urbino, Italy (3 weeks, 2016)  
+* Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock, Germany (1 week, 2016)  
+* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum, London, UK (1 week, 2015)  
+* Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich, Switzerland (1 day, 2014)  
+* IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana, Spain (2 weeks, 2013)  
 
 
 ## Teaching and Outreach
 
-* Nature Live show on "Planktonic Pioneers" (2018), Natural History Museum, London  
-* Teaching assistant, VII Southern-Summer School on Mathematical Biology (2018), ICTP-SAIFR Brazil  
-* Outreach, European Researchers' Night: Oceans (2017), Science Uncovered at the Natural History Museum, London  
-* Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049, 2015), University of Southampton  
-* Outreach, European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London  
+* Nature Live show on "Planktonic Pioneers" (2018), Natural History Museum, London, UK  
+* Teaching assistant, VII Southern-Summer School on Mathematical Biology (2018), ICTP-SAIFR, Brazil  
+* Outreach, European Researchers' Night: Oceans (2017), Science Uncovered at the Natural History Museum, London, UK  
+* Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049, 2015), University of Southampton, UK  
+* Outreach, European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London, UK  
 * Teaching assistant, II Southern-Summer School on Mathematical Biology (2013), Theoretical Physics Institute, UNESP, Brazil  
 
 
