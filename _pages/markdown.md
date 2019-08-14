@@ -12,7 +12,7 @@ marina.rillo@evobio.eu (preferred)
 marina.rillo@uni-oldenburg.de  
 
 ### Address:  
-Dr. Marina Costa Rillo
+Dr. Marina Costa Rillo  
 Planktology Lab (ICBM - Terramare)  
 Institute for Chemistry and Biology of Marine Environments  
 Carl-von-Ossietzky University Oldenburg    
