@@ -8,7 +8,9 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-# Scientific papers
+
+
+## Scientific papers
 
 A. Y. Hsiang, A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull, [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_, 34: 1157-1177, DOI: 10.1029/2019PA003612, __2019__.  
 
@@ -21,11 +23,11 @@ __M.C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller, [Surface sediment sampl
 
 __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller, [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://doi.org/10.1144/jmpaleo2016-020), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, __2016__.  
 
-# Datasets
+## Datasets
 
 __M.C. Rillo__, [Henry Buckley Collection of Planktonic Foraminifera, Natural History Museum, London, UK](http://dx.doi.org/10.5519/0035055), NHM Data Portal DOI: 10.5519/0035055, __2016__.  
 
-# Learning platforms
+## Learning platforms
 
 [Endless Forams, Most Beautiful](http://www.endlessforams.org): large database of images of modern planktonic foraminiferal species for taxonomic training, created as a collaboration of members from Yale University, The Yale Peabody Museum and The Natural History Museum.   
 
