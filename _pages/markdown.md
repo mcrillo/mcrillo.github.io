@@ -18,4 +18,4 @@ Carl-von-Ossietzky University Oldenburg
 Schleusenstrasse 1, 26382 Wilhelmshaven    
 
 ### Telephone:  
-+49 4421 944 217  
++49 (0) 4421 944 217  
