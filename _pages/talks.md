@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
+{% if site.talkmap_link == true %}
 
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-(_Details soon_)
+{% endif %}
 
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
