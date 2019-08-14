@@ -7,10 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-E-mail: marina.rillo@evobio.eu  
+### E-mails: 
+marina.rillo@evobio.eu  (preferred)
+marina.rillo@uni-oldenburg.de  
 
-Address:  
-Planktology Lab  
-Institute for Chemistry and Biology of Marine Environments (ICBM) - Terramare  
+### Address:  
+Planktology Lab (ICBM - Terramare)
+Institute for Chemistry and Biology of Marine Environments
 Carl-von-Ossietzky University Oldenburg  
-Schleusenstrasse 1, 26382 Wilhelmshaven  
+Schleusenstrasse 1, 26382 Wilhelmshaven   
+
+### Telephone:  
++49 4421 944 217  
