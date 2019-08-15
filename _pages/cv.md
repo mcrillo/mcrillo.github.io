@@ -42,7 +42,7 @@ University of Sao Paulo, Brazil
 cellular automaton model (individual-based, spatially-explicit)
 * B.Sc. Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start). __Skills__: Ithomiini taxonomy; field work design and practise; community ecology theory; estimation of demographic rates (multistate mark-recapture design)
  
-## Field and Laboratory
+## Field and Laboratory Experience
 
 * Seafloor sediment processing; microfossils identification and sampling (stereo-microscope); micropalaeontological slide mounting, digitisation and imaging (stereo-microscope); SEM imaging; image analysis
 
