@@ -40,7 +40,7 @@ University of Sao Paulo, Brazil
 * M.Sc. Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research). __Skills__: birth-death process; density dependent dynamics; continuous-time stochastic model
 * M.Sc. Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr) and [Dr. Florian Schneider](http://fdschneider.de/). __Skills__: semi-arid plant adaptations; adaptive dynamics approach; stochastic
 cellular automaton model (individual-based, spatially-explicit)
-* B.Sc. Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start). Ithomiini taxonomy; field work design and practise; community ecology theory; estimation of demographic rates (multistate mark-recapture design)
+* B.Sc. Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start). __Skills__: Ithomiini taxonomy; field work design and practise; community ecology theory; estimation of demographic rates (multistate mark-recapture design)
  
 ## Field and Laboratory
 
