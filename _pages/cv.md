@@ -13,7 +13,7 @@ redirect_from:
 
 * __Postdoctoral Researcher__  
 Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany  
-Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/icbm/planktologie/)
+Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/en/icbm/planktology/)
 
 
 ## Education
