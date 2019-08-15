@@ -12,7 +12,7 @@ author_profile: true
 
 ## Scientific papers
 
-__M. C. Rillo__, M. T. C. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera, _Global Ecology and Biogeography_ (in press), __2019__.  
+__M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera, _Global Ecology and Biogeography_ (in press), __2019__.  
 
 A. Y. Hsiang, A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull, [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_, 34: 1157-1177, DOI: 10.1029/2019PA003612, __2019__.  
 
