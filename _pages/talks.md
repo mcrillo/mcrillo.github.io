@@ -5,4 +5,4 @@ permalink: /talks/
 author_profile: true
 ---
 
-_(Details soon)_
+_(Details coming soon)_
