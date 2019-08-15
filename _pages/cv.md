@@ -53,7 +53,7 @@ cellular automaton model (individual-based, spatially-explicit)
 
 
 
-## Fellowships, Grants and Awards
+## Grants and Awards
 
 * Participation support for ICTP-SAIFR Summer Schools (2018), FAPESP Brazil (USD 1,275)  
 * [Best Poster](https://doi.org/10.6084/m9.figshare.5113177.v4), The Micropalaeontological Society Annual Conference (2017)  
