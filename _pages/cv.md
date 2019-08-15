@@ -36,16 +36,21 @@ University of Sao Paulo, Brazil
 
 ## Research Experience
 
-* PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisor: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page), University of Southampton  
-* Master Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research), University of Groningen  
-* Master Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr), University of Montpellier II  
-* Undergraduate Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start), University of Sao Paulo  
+* PhD research: Unravelling macroecological patterns in extant planktonic foraminifera. Supervisors: [Dr. Thomas Ezard](https://www.southampton.ac.uk/oes/about/staff/te1e12.page) and [Dr. Giles Miller](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/giles-miller.html); collaborator: [Prof. Michal Kucera](https://www.marum.de/en/Michal-Kucera.html). __Skills__: planktonic Foraminifera taxonomy; morphometrics; microscopy; data management and digitisation; oceanographic big data analysis; linear mixed effects models; compositional similarity; community phylogenetics approach; null models in ecology; time-series analysis
+* MSc Thesis: The role of diversity dependence in macroevolutionary succession. Supervisor: [Prof. Rampal Etienne](https://www.rug.nl/research/gelifes/tres/_etienne/research). __Skills__: birth-death process; density dependent dynamics; continuous-time stochastic model
+* MSc Thesis: Facilitation and the evolution of Mediterranean plant trait-syndromes. Supervisor: [Dr. Sonia Kéfi](http://sonia.kefi.fr) and [Dr. Florian Schneider](http://fdschneider.de/). __Skills__: semi-arid plant adaptations; adaptive dynamics approach; stochastic
+cellular automaton model (individual-based, spatially-explicit)
+* BSc Thesis: Are migrations rates of frugivorous butterflies consistent with the Neutral Theory of Biodiversity? Supervisor: [Prof. Paulo Inácio K. L. Prado](http://ecologia.ib.usp.br/let/doku.php?id=engl:prado:start). Ithomiini taxonomy; field work design and practise; community ecology theory; estimation of demographic rates (multistate mark-recapture design)
+ 
+## Field and Laboratory
 
-  
-## Field Experience
+* Seafloor sediment processing; microfossils identification and sampling (stereo-microscope); micropalaeontological slide mounting, digitisation and imaging (stereo-microscope); SEM imaging; image analysis
 
-* Plankton net, planktonic foraminifera sampling from sea water, plankton filtering. [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140), German Research Vessel Meteor, sailing from Cabo Verde to the Canary Islands (4 weeks, 2017)  
-* Butterfly capture-mark-recapture method using traps and nets in small patches of the Atlantic Rainforest, Sao Paulo, Brazil (1 year, 2011)  
+* [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140): plankton sampling with stratified plankton net; plankton filtering and biomass measurement; plankton identification using microscopy; sediment traps; sampling Saharan dust. German Research Vessel Meteor, sailing from Cabo Verde to the Canary Islands (4 weeks, 2017) 
+
+* Butterfly capture-mark-recapture method using entomological nets (nectarivorous species) and bait traps (frugivorous species), Atlantic Rainforest, Sao Paulo, Brazil (1 year, 2011)
+
+
 
 
 ## Fellowships, Grants and Awards
@@ -93,15 +98,21 @@ University of Sao Paulo, Brazil
 * IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana, Spain (2 weeks, 2013)  
 
 
-## Teaching and Outreach
+## Teaching
 
-* Nature Live show on "Planktonic Pioneers" (2018), Natural History Museum, London, UK  
-* Teaching assistant, VII Southern-Summer School on Mathematical Biology (2018), ICTP-SAIFR, Brazil  
-* Outreach, European Researchers' Night: Oceans (2017), Science Uncovered at the Natural History Museum, London, UK  
-* Demostrator, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049, 2015), University of Southampton, UK  
-* Outreach, European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London, UK  
-* Teaching assistant, II Southern-Summer School on Mathematical Biology (2013), Theoretical Physics Institute, UNESP, Brazil  
+* Supervisor (two BSc students), Community Ecology Research (WLB07056.2017-2018.2B), University of Groningen
+(2018)
+* Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR, Brazil (2018)
+* Teaching assistant, Vertebrate Palaeobiology: Phylogenetics and Evolution (SOES 3049), University of Southampton, UK (2016)  
+* Teaching assistant, II Southern-Summer School on Mathematical Biology, Theoretical Physics Institute, UNESP, Brazil (2013) 
 
+
+## Outreach
+
+* Portuguese translation of scientic short stories for children, [Once Upon a Time project](https://www.marum.de/en/Discover/Once-upon-a-time.html), University of Bremen
+* Nature Live show on "Planktonic Pioneers", Natural History Museum, London, UK (19 Oct 2018)
+* European Researchers' Night: Oceans (2017), Science Uncovered at the Natural History Museum, London, UK (29 Sep 2017)  
+* European Researchers' Night (2015), Science Uncovered at the Natural History Museum, London, UK (16 Sep 2015)  
 
 
 ## Programming skills
