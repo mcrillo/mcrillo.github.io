@@ -27,7 +27,7 @@ __M. C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stuki
 
 ## Datasets
 
-__M. C. Rillo__, [Henry Buckley Collection of Planktonic Foraminifera, Natural History Museum, London, UK](http://dx.doi.org/10.5519/0035055), NHM Data Portal DOI: 10.5519/0035055, __2016__.  
+__M. C. Rillo__, [Henry Buckley Collection of Planktonic Foraminifera](http://dx.doi.org/10.5519/0035055), Natural History Museum, London, UK, NHM Data Portal DOI: 10.5519/0035055, __2016__.  
 
 ## Learning platforms
 
