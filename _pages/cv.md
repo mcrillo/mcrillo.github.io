@@ -46,7 +46,7 @@ cellular automaton model (individual-based, spatially-explicit)
 
 * Seafloor sediment processing; microfossils identification and sampling (stereo-microscope); micropalaeontological slide mounting, digitisation and imaging (stereo-microscope); SEM imaging; image analysis
 
-* [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140): plankton sampling with stratified plankton net; plankton filtering and biomass measurement; plankton identification using microscopy; sediment traps; sampling Saharan dust. German Research Vessel Meteor, sailing from Cabo Verde to the Canary Islands (4 weeks, 2017) 
+* [Marine expedition FORAMFLUX M-140](https://www.nioz.nl/en/blog/dust/m140): plankton sampling with stratified plankton net; plankton filtering and biomass measurement; plankton identification using microscopy. German Research Vessel Meteor, sailing from Cabo Verde to the Canary Islands (4 weeks, 2017) 
 
 * Butterfly capture-mark-recapture method using entomological nets (nectarivorous species) and bait traps (frugivorous species), Atlantic Rainforest, Sao Paulo, Brazil (1 year, 2011)
 
