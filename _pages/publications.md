@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-## Peer-reviewed papers
+## Peer-reviewed journals
 
 __M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera, _Global Ecology and Biogeography_ (in press), __2019__.  
 
