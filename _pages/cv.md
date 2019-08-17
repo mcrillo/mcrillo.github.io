@@ -13,7 +13,7 @@ redirect_from:
 
 * __Postdoctoral Researcher__  
 Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany  
-Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/en/icbm/planktology/) and [Prof. Michal Kucera](https://www.marum.de/en/Michal-Kucera.html)
+Lead-PI: [Prof. Helmut Hillebrand](https://uol.de/en/icbm/planktology/) and [Prof. Michal Kucera](https://www.marum.de/en/Michal-Kucera.html)  
 Project: [Ocean Floor Excellence Cluster - Reseach Unit RECORDER](https://www.marum.de/en/The-Ocean-Floor.html)
 
 
