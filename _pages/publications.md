@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-## Scientific papers
+## Peer-reviewed papers
 
 __M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera, _Global Ecology and Biogeography_ (in press), __2019__.  
 
@@ -24,6 +24,11 @@ __M. C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller, [Surface sediment samp
 
 
 __M. C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller, [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://doi.org/10.1144/jmpaleo2016-020), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, __2016__.  
+
+## Pre-prints
+
+__M. C. Rillo__, C.G. Miller, M. Kucera & T.H.G. Ezard, [Predictability of intraspecific size variation in extant planktonic foraminifera](https://doi.org/10.1101/468165), _BioRxiv_, DOI: 10.1101/468165, __2018__.   
+
 
 ## Datasets
 
