@@ -85,7 +85,7 @@ author:
   location         : #"Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=6WsVVJEAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=6WsVVJEAAAAJ&hl"
   email            : "marina.rillo@evobio.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
