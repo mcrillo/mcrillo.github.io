@@ -91,14 +91,14 @@ cellular automaton model (individual-based, spatially-explicit)
 
 ## Complementary Courses and Workshops  
 
-* Fourth Workshop on Trait-based Approaches to Ocean Life, Buckinghamshire, UK (18-21 August 2019)
-* HIFMB 2nd Symposium on Functional Marine Biodiversity, Oldenburg, Germany (3-5 June 2019)
-* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Sao Paulo, Brazil (1 week, 2018)  
-* The International School on Foraminifera, Urbino, Italy (3 weeks, 2016)  
-* Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock, Germany (1 week, 2016)  
-* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum, London, UK (1 week, 2015)  
-* Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich, Switzerland (1 day, 2014)  
-* IV Course on Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana, Spain (2 weeks, 2013)  
+* Fourth Workshop on Trait-based Approaches to Ocean Life, Buckinghamshire, UK (18-21.08.2019)
+* HIFMB 2nd Symposium on Functional Marine Biodiversity, Oldenburg, Germany (3-5.06.2019)
+* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Sao Paulo, Brazil (22–27.01.2018)  
+* The International School on Foraminifera, Urbino, Italy (5-24.06.2016)  
+* Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock, Germany (25–29.04.2016)  
+* Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera, Natural History Museum, London, UK (09-13.02.2015)  
+* Computational Methods in Macroevolutionary Analysis, Institute of Systematic Botany, University of Zurich, Switzerland (12.06.2014)  
+* Ecological Consequences of Climate Change, CSIC Estación Biológica de Doñana, Spain (29.09-10.10.2013)  
 
 
 ## Teaching
