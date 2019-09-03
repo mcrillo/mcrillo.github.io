@@ -61,7 +61,7 @@ cellular automaton model (individual-based, spatially-explicit)
 * Travel Award for The Micropalaeontological Society Annual Conference (2017), TMS UK (GBP 100)  
 * Research Grant for Doctoral Candidates Academic Exchange at the University of Bremen (2016), DAAD Germany (EUR 10,385)  
 * Tuition support for the International School Foraminifera Urbino (2016), European Geological Union (EUR 500)  
-* [Best Poster](https://doi.org/10.6084/m9.figshare.5649352.v3), 10th Annual Natural History Museum Student Conference (20160  
+* [Best Poster](https://doi.org/10.6084/m9.figshare.5649352.v3), 10th Annual Natural History Museum Student Conference (2016)  
 * Travel Award for The Micropalaeontological Society Annual Conference (2015), TMS UK (GBP 100)  
 * PhD Research studentship (2015), Graduate School of the National Oceanography Centre Southampton UK (GBP 102,000 tuition included)  
 * Master scholarship (2012), Category A, Erasmus Mundus EACEA European Union (EUR 36,000 tuition included)  
@@ -72,26 +72,28 @@ cellular automaton model (individual-based, spatially-explicit)
   
 ## Talks
 
-* FORAMS, Edinburgh, UK (2018) - _Do modern planktonic foraminifera species compete?_ 
+* FORAMS, Edinburgh, UK (2018): _Do modern planktonic foraminifera species compete?_ 
 
-* The Micropalaeontological Society Annual Conference, London, UK (2017) - _Biogeographic variation of shell size within modern planktonic foraminifera species_
+* The Micropalaeontological Society Annual Conference, London, UK (2017): _Biogeographic variation of shell size within modern planktonic foraminifera species_
 
-* 15th International Congress of Protistology, Prague, Czech Republic (2017) - _Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?_
+* 15th International Congress of Protistology, Prague, Czech Republic (2017): _Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?_
 
-* The Micropalaeontological Society Annual Conference, University of Liverpool, UK (2015) - _The Henry Buckley Collection of Planktonic Foraminifera_
+* The Micropalaeontological Society Annual Conference, University of Liverpool, UK (2015): _The Henry Buckley Collection of Planktonic Foraminifera_
 
 ## Posters
 
-* Evolution, Montpellier, France (2018) - [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
+* Evolution, Montpellier, France (2018): [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
 
-* Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London, UK (2017) - [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
+* Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London, UK (2017): [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
 
-* BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London, UK (2016) - [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
+* BES Macroecology, Oxford & 10th Annual Natural History Museum Student Conference, London, UK (2016): [The biogeography of ecological optima in modern planktonic foraminifera.](https://doi.org/10.6084/m9.figshare.5649352.v3)
 
 
 ## Complementary Courses and Workshops  
 
-* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Brazil (1 week, 2018)  
+* Fourth Workshop on Trait-based Approaches to Ocean Life, Buckinghamshire, UK (18-21 August 2019)
+* HIFMB 2nd Symposium on Functional Marine Biodiversity, Oldenburg, Germany (3-5 June 2019)
+* School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Sao Paulo, Brazil (1 week, 2018)  
 * The International School on Foraminifera, Urbino, Italy (3 weeks, 2016)  
 * Comparative Approaches in Ecology and Evolution (IDEM 186), Max Planck Institute for Demographic Research, Rostock, Germany (1 week, 2016)  
 * Taxonomy & Biostratigraphy of Cenozoic Planktonic Foraminifera,  Natural History Museum, London, UK (1 week, 2015)  
