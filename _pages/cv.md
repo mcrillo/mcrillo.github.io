@@ -12,14 +12,15 @@ redirect_from:
 ## Employment
 
 * __Postdoctoral Researcher__  
-Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany  
+Institute for Chemistry and Biology of the Marine Environment  
+University of Oldenburg, Germany  
 Lead-PIs: [Prof. Helmut Hillebrand](https://uol.de/en/icbm/planktology/) and [Prof. Michal Kucera](https://www.marum.de/en/Michal-Kucera.html)  
 Project: [Ocean Floor Excellence Cluster - Reseach Unit RECORDER](https://www.marum.de/en/The-Ocean-Floor.html)
 
 
 ## Education
 
-* __Ph.D. in Ocean and Earth Sciences (2019)__  
+* __Ph.D. in Ocean and Earth Science (2019)__  
 National Oceanography Centre Southampton, University of Southampton, UK  
 Department of Earth Sciences, Natural History Museum, London, UK   
 Center for Marine Environmental Sciences, University of Bremen, Germany (one year exchange) 
