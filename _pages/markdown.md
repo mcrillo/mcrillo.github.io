@@ -15,8 +15,9 @@ redirect_from:
 Dr. Marina Costa Rillo  
 Institute for Chemistry and Biology of Marine Environments  
 Carl-von-Ossietzky University Oldenburg    
-Schleusenstrasse 1
-26382 Wilhelmshaven    
+Schleusenstrasse 1  
+26382 Wilhelmshaven  
+Germany
 
 ### Telephone:  
 +49 (0) 4421 944 217  
