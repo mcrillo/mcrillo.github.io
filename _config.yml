@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Marina C. Rillo"
+title                    : "Marina Costa Rillo"
 title_separator          : "-"
 name                     : &name "Marina C. Rillo"
 description              : &description "personal description"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Marina Costa Rillo"
+  name             : "Dr. Marina C. Rillo"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at the University of Oldenburg, Germany"
+  bio              : "Postdoc at the University of Oldenburg, Germany"
   location         : #"Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
