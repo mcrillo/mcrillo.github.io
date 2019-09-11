@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Marina Costa Rillo"
+title                    : "Marina C. Rillo"
 title_separator          : "-"
-name                     : &name "Marina Costa Rillo"
+name                     : &name "Marina C. Rillo"
 description              : &description "personal description"
 url                      : https://mcrillo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marina C. Rillo"
+  name             : "Dr. Marina Costa Rillo"
   avatar           : "profile.png"
-  bio              : "Postdoc at the University of Oldenburg, Germany"
+  bio              : "Postdoctoral researcher at the University of Oldenburg, Germany"
   location         : #"Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
