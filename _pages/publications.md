@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-__M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera, _Global Ecology and Biogeography_ (in press), __2019__.  
+__M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 00:1-13 (Early View), DOI: 10.1111/geb.13000, __2019__.  
 
 A. Y. Hsiang, A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull, [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_, 34: 1157-1177, DOI: 10.1029/2019PA003612, __2019__.  
 
@@ -33,6 +33,12 @@ __M. C. Rillo__, C.G. Miller, M. Kucera & T.H.G. Ezard, [Predictability of intra
 ## Datasets
 
 __M. C. Rillo__, [Henry Buckley Collection of Planktonic Foraminifera](http://dx.doi.org/10.5519/0035055), Natural History Museum, London, UK, NHM Data Portal DOI: 10.5519/0035055, __2016__.  
+
+## Cruise reports
+
+M. Kucera, M. Siccha, R. Morard, L. Jonkers, *et al.*, [Scales of population dynamics, ecology and diversity of planktonic foraminifera and their relationship to particle flux in the eastern tropical Atlantic, Cruise No. M140, 11.8.2017 - 5.9.2017, Mindelo (Cabo Verde) - Las Palmas (Spain), FORAMFLUX ](https://doi.org/10.2312/cr_m140), 
+METEOR-Berichte, DOI: 10.2312/cr_m140, Bonn, __2019__.  
+
 
 ## Learning platforms
 
