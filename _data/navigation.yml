@@ -8,7 +8,7 @@ main:
     url: /cv/
 
   - title: "Research"
-    url: /portfolio/  
+    url: /talks/  
     
   - title: "Contact"
     url: /markdown/
