@@ -70,7 +70,11 @@ University of Sao Paulo, Brazil
 * [Undergraduate scholarship](https://bv.fapesp.br/en/bolsas/116349/migration-rates-of-frugivory-butterflies-are-consistent-with-the-neutral-theory-of-biodiversity/) (2011), FAPESP Brazil (USD 3,456)  
 
   
-## Talks
+## Talks (conference and invited)
+
+* School on Community Ecology: from patterns to principles, ICTP-SAIFR, Sao Paulo, Brazil (2020): [_Species competition: linking theory and data_](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/)
+
+* P-SEEDS: Paleobiology as the Synthetic Ecological, Evolutionary and Diversity Science workshop, Okinawa, Japan (2019)
 
 * FORAMS, Edinburgh, UK (2018): _Do modern planktonic foraminifera species compete?_ 
 
@@ -82,6 +86,8 @@ University of Sao Paulo, Brazil
 
 ## Posters
 
+* Fourth Workshop on Trait-based Approaches to Ocean Life, Buckinghamshire, UK (2019)
+
 * Evolution, Montpellier, France (2018): [How consistent are macroevolutionary and community ecology patterns of interspecific competition?](https://doi.org/10.6084/m9.figshare.7285337.v1)  
 
 * Evolution, Portland, OR, USA  & The Micropalaeontological Society Annual Conference, London, UK (2017): [Diversity-dependent diversification: but do modern planktonic foraminifera actually compete?](https://doi.org/10.6084/m9.figshare.5113177.v4)  
@@ -91,7 +97,6 @@ University of Sao Paulo, Brazil
 
 ## Complementary Courses and Workshops  
 
-* Fourth Workshop on Trait-based Approaches to Ocean Life, Buckinghamshire, UK (18–21.08.2019)
 * HIFMB 2nd Symposium on Functional Marine Biodiversity, Oldenburg, Germany (03–05.06.2019)
 * School on Physics Applications in Biology [(Empirical Dynamic Modeling)](https://mathbio.github.io/edmTutorials/), ICTP-SAIFR, Sao Paulo, Brazil (22–27.01.2018)  
 * The International School on Foraminifera, Urbino, Italy (05–24.06.2016)  
@@ -103,6 +108,7 @@ University of Sao Paulo, Brazil
 
 ## Teaching
 
+* Teaching assistant, [XI Southern-Summer School on Mathematical Biology](https://www.ictp-saifr.org/ix-southern-summer-school-on-mathematical-biology/), ICTP-SAIFR, Brazil (2020)
 * Supervisor (two BSc students), Community Ecology Research (WLB07056.2017-2018.2B), University of Groningen
 (2018)
 * Teaching assistant, VII Southern-Summer School on Mathematical Biology, ICTP-SAIFR, Brazil (2018)
@@ -129,5 +135,5 @@ University of Sao Paulo, Brazil
 
 * __Portuguese__ 	Fluent, Native language  
 * __English__		Fluent, Working language  
-* __German__		Good communication level  
+* __German__		Basic communication level  
 * __Dutch__		Basic communication level  
