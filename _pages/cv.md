@@ -56,7 +56,9 @@ University of Sao Paulo, Brazil
 
 ## Grants and Awards
 
-* Participation support for ICTP-SAIFR Summer Schools (2018), FAPESP Brazil (USD 1,275)  
+* Participation support for ICTP-SAIFR Summer School (2020), FAPESP Brazil (USD 740)  
+* Participation support for P-SEEDS workshop (2019), University of the Ryukyus, Japan (EUR 1,065) 
+* Participation support for ICTP-SAIFR Summer School (2018), FAPESP Brazil (USD 1,275)  
 * [Best Poster](https://doi.org/10.6084/m9.figshare.5113177.v4), The Micropalaeontological Society Annual Conference (2017)  
 * Travel Award for The Micropalaeontological Society Annual Conference (2017), TMS UK (GBP 100)  
 * Research Grant for Doctoral Candidates Academic Exchange at the University of Bremen (2016), DAAD Germany (EUR 10,385)  
@@ -74,7 +76,7 @@ University of Sao Paulo, Brazil
 
 * School on Community Ecology: from patterns to principles, ICTP-SAIFR, Sao Paulo, Brazil (2020): [_Species competition: linking theory and data_](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/)
 
-* P-SEEDS: Paleobiology as the Synthetic Ecological, Evolutionary and Diversity Science workshop, Okinawa, Japan (2019)
+* Workshop Paleobiology as the Synthetic Ecological, Evolutionary and Diversity Science (P-SEEDS), Okinawa, Japan (2019)
 
 * FORAMS, Edinburgh, UK (2018): _Do modern planktonic foraminifera species compete?_ 
 
