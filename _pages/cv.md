@@ -27,7 +27,7 @@ Center for Marine Environmental Sciences, University of Bremen, Germany (one yea
 
 * __M.Sc. in Evolutionary Biology (2014)__  
 Groningen Institute for Evolutionary Life Sciences, University of Groningen, Netherlands  
-Institute of Evolution Sciences of Montpellier, University of Montpellier II, France  
+Institut des Sciences de l'Évolution de Montpellier, University of Montpellier II, France  
 
 * __B.Sc. in Biological Sciences (2014)__  
 Institute of Biosciences, University of Sao Paulo, Brazil  
