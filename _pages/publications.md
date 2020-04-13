@@ -29,6 +29,11 @@ __M. C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stuki
 
 __M. C. Rillo__, C.G. Miller, M. Kucera & T.H.G. Ezard, [Predictability of intraspecific size variation in extant planktonic foraminifera](https://doi.org/10.1101/468165), _BioRxiv_, DOI: 10.1101/468165, __2018__.   
 
+## Thesis
+
+__M. C. Rillo__ [Unravelling macroecological patterns in extant planktonic Foraminifera.](https://eprints.soton.ac.uk/435406/) _University of Southampton_, Doctoral Thesis, 167pp, __2019__
+
+
 
 ## Datasets
 
