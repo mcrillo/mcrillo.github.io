@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-# 2019
+### 2019
 
 __M. C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard, [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 28(12):1866-78, DOI: 10.1111/geb.13000, 2019.  
 
@@ -22,15 +22,13 @@ J. Meilland, M. Siccha, M. F. G. Weinkauf, L. Jonkers, R. Morard, U. Baranowski,
 
 __M. C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller, [Surface sediment samples from early age of seafloor exploration can provide a late 19th century baseline of the marine environment](https://doi.org/10.3389/fmars.2018.00517), _Frontiers in Marine Science_ 5:517, DOI: 10.3389/fmars.2018.00517, 2019.  
 
-# 2016
+### 2016
 
 __M. C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller, [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://doi.org/10.1144/jmpaleo2016-020), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, 2016.  
 
 ## Pre-prints
 
-# 2020
-
-__M. C. Rillo__, C.G. Miller, M. Kucera & T.H.G. Ezard, [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1101/468165), _bioRxiv_, DOI: 10.1101/468165, 2020.   
+__M. C. Rillo__, C.G. Miller, M. Kucera & T.H.G. Ezard, [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1101/468165), _bioRxiv_, DOI: 10.1101/468165, __2020__.   
 
 
 ## PhD thesis
