@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-7. __M.C. Rillo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_, 00: 1– 12, DOI: 10.1002/ece3.6792, __2020__.   
+7. __M.C. Rillooo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_, 00: 1– 12, DOI: 10.1002/ece3.6792, __2020__.   
 
 6. M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_: 33(2), DOI: 10.5670/oceanog.2020.225, __2020__.
 
