@@ -12,20 +12,23 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-7. __M.C. Rillo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_, 00: 1– 12, DOI: 10.1002/ece3.6792, __2020__.  
+<ol reversed>
 
-6. M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_: 33(2), DOI: 10.5670/oceanog.2020.225, __2020__.
+<li> __M.C. Rillo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_, 00: 1– 12, DOI: 10.1002/ece3.6792, __2020__.</li>   
 
-5. __M.C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard. [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 28(12):1866-78, DOI: 10.1111/geb.13000, __2019__.  
+<li> M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_: 33(2), DOI: 10.5670/oceanog.2020.225, __2020__.</li>
 
-4. A. Y. Hsiang, A. Brombacher, __M.C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull. [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_, 34: 1157-1177, DOI: 10.1029/2019PA003612, __2019__.  
+<li> __M.C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard. [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 28(12):1866-78, DOI: 10.1111/geb.13000, __2019__.</li>  
 
-3. J. Meilland, M. Siccha, M. F. G. Weinkauf, L. Jonkers, R. Morard, U. Baranowski, A. Baumeister, J. Bertlich, G.-J. Brummer, P. Debray, T. Fritz-Endres, J. Groeneveld, L. Magerl, P. Munz, __M.C. Rillo__, C. Schmidt, H. Takagi, G. Theara, M. Kucera. [Highly replicated sampling reveals no diurnal vertical migration but stable species-specific vertical habitats in planktonic foraminifera](https://doi.org/10.1093/plankt/fbz002), _Journal of Plankton Research_, 41:2, 127–141, DOI: 10.1093/plankt/fbz002, __2019__.  
+<li> A. Y. Hsiang, A. Brombacher, __M.C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull. [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_, 34: 1157-1177, DOI: 10.1029/2019PA003612, __2019__.</li>  
 
-2. __M.C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller. [Surface sediment samples from early age of seafloor exploration can provide a late 19th century baseline of the marine environment](https://doi.org/10.3389/fmars.2018.00517), _Frontiers in Marine Science_ 5:517, DOI: 10.3389/fmars.2018.00517, __2019__.  
+<li> J. Meilland, M. Siccha, M. F. G. Weinkauf, L. Jonkers, R. Morard, U. Baranowski, A. Baumeister, J. Bertlich, G.-J. Brummer, P. Debray, T. Fritz-Endres, J. Groeneveld, L. Magerl, P. Munz, __M.C. Rillo__, C. Schmidt, H. Takagi, G. Theara, M. Kucera. [Highly replicated sampling reveals no diurnal vertical migration but stable species-specific vertical habitats in planktonic foraminifera](https://doi.org/10.1093/plankt/fbz002), _Journal of Plankton Research_, 41:2, 127–141, DOI: 10.1093/plankt/fbz002, __2019__.</li>  
 
-1. __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller. [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://jm.copernicus.org/articles/36/191/2016/), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, __2016__.  
+<li> __M.C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller. [Surface sediment samples from early age of seafloor exploration can provide a late 19th century baseline of the marine environment](https://doi.org/10.3389/fmars.2018.00517), _Frontiers in Marine Science_ 5:517, DOI: 10.3389/fmars.2018.00517, __2019__.</li>  
 
+<li> __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller. [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://jm.copernicus.org/articles/36/191/2016/), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, __2016__.</li>  
+
+</ol>
 
 
 ## PhD thesis
