@@ -26,8 +26,6 @@ author_profile: true
 
 1. __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller. [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://jm.copernicus.org/articles/36/191/2016/), _Journal of Micropalaeontology_, 36, 191-194, DOI: 10.1144/jmpaleo2016-020, __2016__.
 
-{: reversed="reversed"}
-
 
 ## PhD thesis
 
