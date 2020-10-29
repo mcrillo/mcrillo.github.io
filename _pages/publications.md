@@ -16,7 +16,7 @@ author_profile: true
 
 7. M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_ 33(2): 16-28, doi:10.5670/oceanog.2020.225, __2020__  
 
-6. G.M. Ribeiro, P.I. Prado, R.M. Coutinho, __M.C. Rillo__, S. Pereira Junior, A.L. Porfirio-Sousa, D.J.G. Lahr. [Growth rate modulation enables coexistence in a competitive exclusion scenario between microbial eukaryotes](http://dx.doi.org/10.4467/16890027AP.19.019.12021), _Acta Protozoologica_ 58:4 doi:10.4467/16890027AP.19.019.12021 __2019__  
+6. G.M. Ribeiro, P.I. Prado, R.M. Coutinho, __M.C. Rillo__, S. Pereira Junior, A.L. Porfirio-Sousa, D.J.G. Lahr. [Growth rate modulation enables coexistence in a competitive exclusion scenario between microbial eukaryotes](http://dx.doi.org/10.4467/16890027AP.19.019.12021), _Acta Protozoologica_ 58:4 doi:10.4467/16890027AP.19.019.12021, __2019__  
 
 5. __M.C. Rillo__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T.H.G. Ezard. [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 28(12):1866-78, doi:10.1111/geb.13000, __2019__  
 
