@@ -20,7 +20,7 @@ author_profile: true
 
 5. __Rillo, M. C.__, M. Sugawara, B. Cabella, L. Jonkers, U. K. Baranowski, M. Kucera and T. H. G. Ezard. [On the mismatch in the strength of competition among fossil and modern species of planktonic Foraminifera](https://doi.org/10.1111/geb.13000), _Global Ecology and Biogeography_ 28(12):1866-78, doi:10.1111/geb.13000, __2019__  
 
-4. Hsiang, A. Y., A. Brombacher, __M.C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull. [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_ 34: 1157-1177, doi:10.1029/2019PA003612, __2019__  
+4. Hsiang, A. Y., A. Brombacher, __M. C. Rillo__, M. J. Mleneck‐Vautravers, S. Conn, S. Lordsmith, A. Jentzen, M. J. Henehan, B. Metcalfe, I. S. Fenton, B. S. Wade, L. Fox, J. Meilland, C. V. Davis, U. Baranowski, J. Groeneveld, K. M. Edgar, A. Movellan, T. Aze, H. J. Dowsett, C. G. Miller, N. Rios and P. M. Hull. [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612), _Paleoceanography and Paleoclimatology_ 34: 1157-1177, doi:10.1029/2019PA003612, __2019__  
 
 3. Meilland, J., M. Siccha, M. F. G. Weinkauf, L. Jonkers, R. Morard, U. Baranowski, A. Baumeister, J. Bertlich, G.-J. Brummer, P. Debray, T. Fritz-Endres, J. Groeneveld, L. Magerl, P. Munz, __M. C. Rillo__, C. Schmidt, H. Takagi, G. Theara, M. Kucera. [Highly replicated sampling reveals no diurnal vertical migration but stable species-specific vertical habitats in planktonic foraminifera](https://doi.org/10.1093/plankt/fbz002), _Journal of Plankton Research_ 41:2, 127–141, doi:10.1093/plankt/fbz002, __2019__  
 
@@ -43,7 +43,7 @@ __Rillo, M. C.__, [Henry Buckley Collection of Planktonic Foraminifera](http://d
 
 ## Cruise reports
 
-M. Kucera, M. Siccha, R. Morard, L. Jonkers, *et al.*, [Scales of population dynamics, ecology and diversity of planktonic foraminifera and their relationship to particle flux in the eastern tropical Atlantic, Cruise No. M140, 11.8.2017 - 5.9.2017, Mindelo (Cabo Verde) - Las Palmas (Spain), FORAMFLUX ](https://doi.org/10.2312/cr_m140), 
+Kucera, M., M. Siccha, R. Morard, L. Jonkers, *et al.*, [Scales of population dynamics, ecology and diversity of planktonic foraminifera and their relationship to particle flux in the eastern tropical Atlantic, Cruise No. M140, 11.8.2017 - 5.9.2017, Mindelo (Cabo Verde) - Las Palmas (Spain), FORAMFLUX ](https://doi.org/10.2312/cr_m140), 
 METEOR-Berichte, DOI: 10.2312/cr_m140, Bonn, __2019__.  
 
 
