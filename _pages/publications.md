@@ -12,9 +12,9 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-8. __M.C. Rillo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_ 00: 1– 12, doi:10.1002/ece3.6792, __2020__  
+8. __M.C. Rillo__, C.G. Miller, M. Kucera, T.H.G. Ezard. [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792), _Ecology and Evolution_ 10(20): 11579-11590, doi:10.1002/ece3.6792, __2020__  
 
-7. M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_ 33(2), doi:10.5670/oceanog.2020.225, __2020__  
+7. M. Yasuhara, H.-H.M. Huang, P. Hull, __M.C. Rillo__, F.L. Condamine, D.P. Tittensor, M. Kučera, M.J. Costello, S. Finnegan, A. O’Dea, Y. Hong, T.C. Bonebrake, N.R. McKenzie, H. Doi, C.-L. Wei, Y. Kubota, E.E. Saupe, 2020. [Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography](https://doi.org/10.5670/oceanog.2020.225), _Oceanography_ 33(2): 16-28, doi:10.5670/oceanog.2020.225, __2020__  
 
 6. G.M. Ribeiro, P.I. Prado, R.M. Coutinho, __M.C. Rillo__, S. Pereira Junior, A.L. Porfirio-Sousa, D.J.G. Lahr. [Growth rate modulation enables coexistence in a competitive exclusion scenario between microbial eukaryotes](http://dx.doi.org/10.4467/16890027AP.19.019.12021), _Acta Protozoologica_ 58:4 doi:10.4467/16890027AP.19.019.12021 __2019__  
 
@@ -26,7 +26,7 @@ author_profile: true
 
 2. __M.C. Rillo__, M. Kucera, T.H.G. Ezard and C.G. Miller. [Surface sediment samples from early age of seafloor exploration can provide a late 19th century baseline of the marine environment](https://doi.org/10.3389/fmars.2018.00517), _Frontiers in Marine Science_ 5:517, doi:10.3389/fmars.2018.00517, __2019__.  
 
-1. __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller. [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://jm.copernicus.org/articles/36/191/2016/), _Journal of Micropalaeontology_, 36, 191-194, doi:10.1144/jmpaleo2016-020, __2016__.
+1. __M.C. Rillo__, J. Whittaker, T.H.G. Ezard, A. Purvis, A.S. Henderson, S. Stukins & C.G. Miller. [The unknown planktonic foraminiferal pioneer Henry A. Buckley and his collection at the Natural History Museum, London](https://jm.copernicus.org/articles/36/191/2016/), _Journal of Micropalaeontology_, 36: 191-194, doi:10.1144/jmpaleo2016-020, __2016__.
 {: reversed="reversed"}
 
 
