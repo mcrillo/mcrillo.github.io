@@ -55,7 +55,7 @@ University of Sao Paulo, Brazil
 
 ## Grants and Awards
 
-* 
+* Financial support for BioDeepTime Paleosynthesis Workshop (M. Rillo, P. Hull and S. Finnegan, 2021-2022), Paleosynthesis Center, Erlangen, Germany
 * Participation support for ICTP-SAIFR Summer School (2020), FAPESP Brazil (USD 740)  
 * Participation support for P-SEEDS workshop (2019), University of the Ryukyus, Japan (EUR 1,065) 
 * Participation support for ICTP-SAIFR Summer School (2018), FAPESP Brazil (USD 1,275)  
